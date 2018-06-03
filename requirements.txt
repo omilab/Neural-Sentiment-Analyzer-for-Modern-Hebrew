@@ -1,3 +1,4 @@
 scikit-learn=0.19.1
+matplotlib==2.1.1
 tensorflow==1.2.1
 Keras==2.1.5
